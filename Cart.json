@@ -1,0 +1,15 @@
+{
+   "cart" : {
+      "cart-id" : 123,
+	  "price" : 500.89,
+	  "quantity" : 1,
+      "status": "G",
+      "availableMessage": "Out of Stock",
+      "ActiveCartItem" : {
+        "cartItemId" : 456,
+        "totalProducts" : 5,
+        "netPrice" : 456,
+        "currency" : "$"
+      }
+   }
+}
